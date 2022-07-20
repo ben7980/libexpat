@@ -1,6 +1,6 @@
 ; DEF file for MS VC++
 
-LIBRARY
+LIBRARY LIBEXPAT
 EXPORTS
   XML_DefaultCurrent @1
   XML_ErrorString @2
